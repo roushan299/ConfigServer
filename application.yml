@@ -1,4 +1,4 @@
 spring:
  appication:
-  name:
+  name: ConfigServer
    
